@@ -6,4 +6,4 @@
 - Модальные окна
 - Адаптив до 320px
 
-## Исходный код по [ссылке](https://github.com/Lokusok/flowers-source)
+## Исходный код по [ссылке](https://github.com/Lokusok/osvobodim-source)
